@@ -1,6 +1,6 @@
 {
     "name": "mindpowered/electricalc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Calculator for electrical wiring and circuits",
     "license": "MIT",
     "autoload": {
